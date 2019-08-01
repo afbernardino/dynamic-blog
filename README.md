@@ -12,6 +12,8 @@ It also provides Server Side Rendering (SSR) that enhances Search Engine Optimiz
 
 This project needs an environment variable called `API_URL`, which represents the address containing the data that feeds the template.
 
+Example: `http://localhost:3001`
+
 The address should expose the following resources that respond to `GET` requests with the following structures:
 
 - `/posts`:
