@@ -52,7 +52,7 @@ The address should expose the following resources that respond to `GET` requests
 }
 ```
 
-**Note:** At the moment the (social) media supported is: `instagram`, `facebook`, `github` and `linkedin`.
+**Note:** At the moment the names of the (social) media supported are: `instagram`, `facebook`, `github` or `linkedin`.
 
 - `/meta`:
 
