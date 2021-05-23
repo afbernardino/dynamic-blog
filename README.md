@@ -29,6 +29,15 @@ The address should expose the following resources that respond to `GET` requests
 ]
 ```
 
+- `/posts/${id}`:
+
+```
+{
+  "title": "",
+  "article": ""
+}
+```
+
 - `/about`:
 
 ```
